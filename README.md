@@ -36,7 +36,7 @@ So, as you can see from above brief, there are different numbers of products wit
 different Ingredients description, different Nutrition information, different storage
 Instruction. Therefore, this type of project lends itself to the sue of NoSQL system,
 especially a document store system such as MongoDB.
-Task T1: Database / record Development (15 marks)
+Task T1: Database / record Development 
 Create a NoSQL, (MongoDB) database that will store products and their
 corresponding details. You can generate random products and their details using any
 free online data generating platform or you create your own. You will require to a
@@ -44,7 +44,7 @@ minimum of 100 products in your database. Each product will need to be stored as
 single record in a single collection in the database. You will need to provide the code
 that you used to create the database and store the records. This will allow you to
 create the 3 queries needed for your task 2.
-Task T2: Queries (30 marks)
+Task T2: Queries 
 Write 3 queries that will retrieve product information from your database. Think of
 the sort or things that a user will want to be able to do. For example, a user might:
 • Look for products for specific season with specific ingredients and
@@ -52,6 +52,6 @@ Nutritional content.
 • Product availability and locations.
 • History of delivery of orders.
 • Products purchasing record based on the locations.
-Task T3: Reflective Report (5 marks)
+Task T3: Reflective Report 
 Write a reflective report discussing how you developed the database, the record structure and how you
 chose the queries. [300 - 500 words].
